@@ -24,8 +24,8 @@ Para os katas de hoje, você irá implementar várias funções. Você deve escr
 >"1 3 5 3 7 3 1 1 5" retorna "1(3) 3(3) 5(2) 7(1)" que é a quantidade de vezes que os números apareceram na primeira lista.
 
 8. Escreva duas funções de teste unitário chamadas testEvaluateExpression1 e testEvaluateExpression2. Em seguida, escreva uma função chamada evaluateExpression que receberá dois parâmetros:
-   1. Uma string: Com uma expressão a ser avaliada. Ex: `"a + b + c - d"`;
-   2. Um objeto: Com valores que substituira as incógnitas da expressão. Ex: `{a: 1, b: 7, c: 3, d: 14}`.
+   >Uma string: Com uma expressão a ser avaliada. Ex: `"a + b + c - d"`;
+   >Um objeto: Com valores que substituira as incógnitas da expressão. Ex: `{a: 1, b: 7, c: 3, d: 14}`.
 
 O resultado esperado da função `evaluateExpression("a + b + c - d", {a: 1, b: 7, c: 3, d: 14})` seria -3.
 

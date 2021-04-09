@@ -25,6 +25,7 @@ Para os katas de hoje, você irá implementar várias funções. Você deve escr
 
 8. Escreva duas funções de teste unitário chamadas testEvaluateExpression1 e testEvaluateExpression2. Em seguida, escreva uma função chamada evaluateExpression que receberá dois parâmetros:
    >Uma string: Com uma expressão a ser avaliada. Ex: `"a + b + c - d"`;
+   
    >Um objeto: Com valores que substituira as incógnitas da expressão. Ex: `{a: 1, b: 7, c: 3, d: 14}`.
 
 O resultado esperado da função `evaluateExpression("a + b + c - d", {a: 1, b: 7, c: 3, d: 14})` seria -3.

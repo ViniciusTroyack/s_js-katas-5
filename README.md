@@ -12,7 +12,7 @@ Para os katas de hoje, você irá implementar várias funções. Você deve escr
 
 1. Escreva duas funções de teste unitário chamadas testReverseString1 e testReverseString2. Em seguida, escreva uma função chamada reverseString que inverte uma string.
 
-Por exemplo, um de teste para o 1° Kata poderia se parecer com isso:
+Por exemplo, um teste para o 1° Kata poderia se parecer com isso:
 
 ```js
 function testeReverseString1() {

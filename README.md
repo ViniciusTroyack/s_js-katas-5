@@ -54,3 +54,4 @@ function testEvaluateExpression1() {
 ## Envio
 
 Faça o push do código para seu repositório no GitLab e use a função do GitLab Pages que permite que o site seja visualizado diretamente. No Gitlab, por favor, adicione o grupo `ka-br-<sua-turma>-correcoes` como ao seu projeto com a permissão "Reporter", e **envie a url do seu gitlab pages (Ex: https://nomedeusuario.gitlab.io/s\_js-katas-5/)**.
+
